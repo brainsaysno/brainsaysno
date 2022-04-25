@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Nico
 
----
-
 I'm a computer science student and a web and mobile front-end developer specialized in **React** and **React Native**.
 
 I'm currently working on **freelance projects** and **studying computer science** at Universidad ORT Uruguay.
