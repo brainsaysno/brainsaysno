@@ -30,4 +30,4 @@ I'm currently working on **freelance projects** and **studying computer science*
 
 ---
 
-Feel free to reach me anytime via [Mail](mailto:nicolas.russo.ortiz@gmail.com) or [Whatsapp](https://wa.me/+59895078292) for any freelance project ideas or questions.
+Feel free to reach me anytime via [Mail](mailto:nicolas.russo.ortiz@gmail.com) or [Whatsapp](https://wa.me/+59895078292) to discuss any freelance project ideas or questions.
