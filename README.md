@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nico
 
-I'm a computer science student and a web and mobile front-end developer specialized in **React** and **React Native**.
+I'm a computer science student and full-stack developer specialized in **Next.js** and **React**
 
 I'm currently working on **freelance projects** and **studying computer science** at Universidad ORT Uruguay.
 
@@ -19,6 +19,7 @@ Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ORG mode](https://img.shields.io/badge/ORG%20MODE-98492f?style=for-the-badge&logo=org&logoColor=71a191)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 Technologies
@@ -33,12 +34,12 @@ Technologies
 ![NPM](https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-2b8ebb?style=for-the-badge&logo=yarn&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Query](https://img.shields.io/badge/react%20query-f23e50?style=for-the-badge&logo=react+query&logoColor=002a47)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 Dev software
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
