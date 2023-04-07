@@ -46,7 +46,7 @@ Dev software
 ![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-white?style=for-the-badge&logo=insomnia&logoColor=5600cd)
+![Insomnia](https://img.shields.io/badge/Insomnia-5600cd?style=for-the-badge&logo=insomnia&logoColor=ffffff)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
