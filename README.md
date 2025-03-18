@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nico
 
-I'm a _wild card_ developer and part time computer science student, currently working as a Lead Software Engineer at [Pento](https://www.pento.ai/) and studying at Universidad ORT Uruguay.
+I'm a _wild card_ developer and part time computer science student, currently working as a Software Engineer at [Canals AI](https://www.canals.ai/) and studying at Universidad ORT Uruguay.
 
 ### 📫 Contact info
 
