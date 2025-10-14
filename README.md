@@ -1,7 +1,9 @@
-## Hi there 👋 I'm Nico
+## Hi there, I'm Nico
 
-I'm a _wild card_ developer and part time computer science student, currently working as a Software Engineer at [Canals AI](https://www.canals.ai/) and studying at Universidad ORT Uruguay.
+I'm a 22-year-old wild card developer from Montevideo 🇺🇾, currently seeking for my next challenge in SF. 
 
-### 📫 Contact info
+I thrive on tackling complex challenges, optimizing processes, and continuously learning. Problem-solving at scale and diving deep into technical decisions fuel my passion for building impactful solutions.
 
-Feel free to reach me anytime via [Mail](mailto:nrusso@nrusso.dev) to discuss any freelance project ideas or questions.
+## Side Quests
+
+Away from keyboard, you'll find me talking about 3d printing or optimizing to get every last bit of flavor from a coffee bean. I also find myself inline skating from time to time.
