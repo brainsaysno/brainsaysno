@@ -1,6 +1,6 @@
 ## Hi there, I'm Nico
 
-I'm a 22-year-old wild card developer from Montevideo 🇺🇾, currently seeking for my next challenge in SF. 
+I'm a 22-year-old wild card developer from Montevideo 🇺🇾, currently seeking my next challenge in SF. 
 
 I thrive on tackling complex challenges, optimizing processes, and continuously learning. Problem-solving at scale and diving deep into technical decisions fuel my passion for building impactful solutions.
 
